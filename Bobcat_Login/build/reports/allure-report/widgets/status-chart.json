@@ -1,0 +1,11 @@
+[ {
+  "uid" : "6f349a2af4482e20",
+  "name" : "loginSearchTest()",
+  "time" : {
+    "start" : 1557133894022,
+    "stop" : 1557133902871,
+    "duration" : 8849
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "bobcat.author.LoginTest",
+    "children" : [ {
+      "name" : "loginSearchTest()",
+      "uid" : "6f349a2af4482e20",
+      "parentUid" : "8950bc3cf5120b6664695f488dd72d6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1557133894022,
+        "stop" : 1557133902871,
+        "duration" : 8849
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8950bc3cf5120b6664695f488dd72d6a"
+  } ]
+}
